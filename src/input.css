@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@layer components {
+  .input {
+    @apply border-3 border-[#12852d] p-1 px-3 rounded-md outline-none;
+  }
+}
+
+h1, h3 {
+  font-family: "Port Lligat Slab", serif;
+}
+a {
+  font-size: large;
+  font-family: "Port Lligat Slab", serif;
+}
